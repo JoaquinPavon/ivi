@@ -1,0 +1,44 @@
+.contenedor {
+
+    width: 400px;
+    height: 400px;
+background-color:aquamarine ;
+
+}
+
+.jugar {
+width: 400px;
+height: 50px;
+background-color: rgb(148, 129, 129);
+
+
+}
+
+.number {
+
+    width: 390px;
+    height: 50px;
+}
+
+.pepe {
+
+display: flex;
+flex-direction: column;
+}
+
+
+.numero {
+
+text-align: center;
+justify-content: center;
+font-size: xx-large;
+color: black;
+margin: 50px;
+    
+}
+
+.resultado {
+
+    font-size: x-large;
+    color: black;
+}

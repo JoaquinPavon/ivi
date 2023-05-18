@@ -1,0 +1,21 @@
+.btn1 {
+    width: 300px;
+    color: orange;
+}
+.btn2 {
+    width: 300px;
+    color: rgb(0, 255, 115);
+}
+.btn3 {
+    width: 300px;
+    color: rgb(143, 49, 135);
+}
+
+.contador {
+
+    width: 300px;
+    height: 300px;
+    border: solid 2px rgb(226, 43, 43);
+    text-align: center;
+    font-size: xx-large;
+}

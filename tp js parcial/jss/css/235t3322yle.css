@@ -1,0 +1,8 @@
+
+.conteiner::after {
+background-color: black;  
+}
+.conteiner::before {
+
+    background-color: blue;
+}

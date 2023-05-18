@@ -1,0 +1,17 @@
+#form {
+
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+
+.tabla {
+display: flex;
+flex-direction: column;
+height: 400px;
+width: 400px;
+background-color: aqua;
+margin: 5px;
+font-size: large;
+}
